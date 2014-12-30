@@ -1,0 +1,30 @@
+{
+  "name": "reeak",
+  "description": "Riak 2.0 HTTP client for Node.js",
+  "version": "0.0.1",
+  "author": "Eduardo Burgos <eburgos@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eburgos/reeak"
+  },
+  "main": "lib/reeak",
+  "dependencies": {
+    "kew": "^0.5.0-alpha.1",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {},
+  "bin": {},
+  "component": {
+    "scripts": {}
+  },
+  "scripts": {},
+  "contributors": [
+    "Eduardo Burgos <eburgos@gmail.com> (http://www.eduardoburgos.com/)"
+  ],
+  "readmeFilename": "README.md",
+  "keywords": [
+    "riak",
+    "http"
+  ],
+  "license": "MIT"
+}
